@@ -1,4 +1,4 @@
-# newsletter
+# Newsletter Java Service
 
 A service that stores if a user is subscribed to your newsletter
 
